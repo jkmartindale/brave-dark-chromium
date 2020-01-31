@@ -1,0 +1,41 @@
+{
+    "manifest_version": 2,
+    "name": "Brave Dark Theme",
+    "version": "0.1",
+
+    "author": "James Martindale",
+    "description": "Brave's dark theme, ported to Chrome and other Chromium-based browsers",
+    "homepage_url": "https://github.com/jkmartindale/brave-dark-theme",
+    "icons": {
+        "128": "icon.png"
+    },
+
+    "theme": {
+        "colors": {
+            "background_tab": [34, 34, 34],
+            "background_tab_inactive": [78, 78, 78],
+            "background_tab_incognito": [27, 14, 44],
+            "background_tab_incognito_inactive": [50, 38, 65],
+            "bookmark_text": [255, 255, 255],
+            "frame": [34, 34, 34],
+            "frame_inactive": [78, 78, 78],
+            "frame_incognito": [27, 14, 44],
+            "frame_incognito_inactive": [50, 38, 65],
+            "ntp_background": [59, 59, 59],
+            "omnibox_background": [34, 34, 34],
+            "omnibox_text": [255, 255, 255],
+            "tab_background_text": [255, 255, 255],
+            "tab_text": [243, 243, 243],
+            "toolbar": [57, 57, 57],
+            "toolbar_button_icon": [237, 237, 237]
+        },
+        "images": {
+            "theme_ntp_background": "new_tab_page1440.png"
+        },
+        "properties": {
+            "ntp_background_alignment": "center",
+            "ntp_background_repeat": "no-repeat",
+            "ntp_logo_alternate": 1
+        }
+    }
+}
