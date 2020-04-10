@@ -1,10 +1,10 @@
 {
     "manifest_version": 2,
     "name": "Brave Dark Theme",
-    "version": "0.1",
+    "version": "0.1.1",
 
     "author": "James Martindale",
-    "description": "Brave's dark theme, ported to Chrome and other Chromium-based browsers",
+    "description": "Brave's dark theme, ported to Chrome and Chromium-based browsers",
     "homepage_url": "https://github.com/jkmartindale/brave-dark-theme",
     "icons": {
         "128": "icon.png"
