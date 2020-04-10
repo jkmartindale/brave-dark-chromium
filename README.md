@@ -9,5 +9,10 @@ tab page background with a 1440p gradient that supports displays up to 8K (at
 300% scaling, which is realistic). It's the closest you can get without
 modifying your browser's source code.
 
+<a href="https://chrome.google.com/webstore/detail/brave-dark-theme/gmccmdephfhnbbfopoobfnfajhmkjbob">
+  
+  ![](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png "Available in the Chrome Web Store")
+</a>
+
 ![](store-images/screenshot_standard.png)
 ![](store-images/screenshot_incognito.png)
