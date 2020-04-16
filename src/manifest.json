@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Brave Dark Theme",
-    "version": "0.1.1",
+    "version": "0.1.2",
 
     "author": "James Martindale",
     "description": "Brave's dark theme, ported to Chrome and Chromium-based browsers",
