@@ -5,7 +5,7 @@
 
     "author": "James Martindale",
     "description": "Brave's dark theme, ported to Chrome and Chromium-based browsers",
-    "homepage_url": "https://github.com/jkmartindale/brave-dark-theme",
+    "homepage_url": "https://github.com/jkmartindale/brave-dark-chromium",
     "icons": {
         "128": "icon.png"
     },
