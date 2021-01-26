@@ -11,7 +11,7 @@ modifying your browser's source code.
 
 <a href="https://chrome.google.com/webstore/detail/brave-dark-theme/gmccmdephfhnbbfopoobfnfajhmkjbob">
   
-  ![](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png "Available in the Chrome Web Store")
+  ![](https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png "Available in the Chrome Web Store")
 </a>
 
 ![](store-images/screenshot_standard.png)
